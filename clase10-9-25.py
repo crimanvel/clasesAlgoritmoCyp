@@ -15,7 +15,7 @@
 #TP1- Ejercicio 4 Convertir una medida dada en metros a sus equivalentes en decimetros y centimetros. Presentar por
 #pantalla las tres magnitudes con sus respectivas unidades.
 #entradas
-medidaMetros=float(input("Intrese la medida en metros: "))
+medidaMetros=float(input("Ingrese la medida en metros: "))
 #procesos
 medidaDecimetros=medidaMetros*10
 medidaCentimetros=medidaMetros*100
